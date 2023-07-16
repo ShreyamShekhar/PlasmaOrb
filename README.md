@@ -7,4 +7,4 @@ The file PlasmaOrb.blend is the main file of this project.
 
 You can play with the colors of the smoke/plasma inside the orb.
 
-The given images are an example of using different colors as plasma inside the orb.
+The given images are an example of using different colors as the smoke inside the orb.
