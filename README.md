@@ -8,27 +8,11 @@ The file PlasmaOrb.blend is the main file of this project.
 You can play with the colors of the smoke/plasma inside the orb.
 
 The given images are an example of using different colors as the smoke inside the orb.
-<img
-src=“https://github.com/ShreyamShekhar/PlasmaOrb/blob/main/plasma.png”
-raw=true
-/>
 
-<img
-src=“https://github.com/ShreyamShekhar/PlasmaOrb/blob/main/plasma1.png”
-raw=true
-/>
 
-<img
-src=“https://github.com/ShreyamShekhar/PlasmaOrb/blob/main/plasma2.png”
-raw=true
-/>
+![SS 1](/plasma.png)
+![SS 1](/plasma1.png)
+![SS 1](/plasma2.png)
+![SS 1](/plasma3.png)
+![SS 1](/plasma4.png)
 
-<img
-src=“https://github.com/ShreyamShekhar/PlasmaOrb/blob/main/plasma3.png”
-raw=true
-/>
-
-<img
-src=“https://github.com/ShreyamShekhar/PlasmaOrb/blob/main/plasma4.png”
-raw=true
-/>
